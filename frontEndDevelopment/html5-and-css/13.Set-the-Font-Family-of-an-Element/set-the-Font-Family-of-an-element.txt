@@ -1,0 +1,15 @@
+Set the Font Family of an Element
+You can set an element's font by using the font-family property.
+
+For example, if you wanted to set your h2 element's font to Sans-serif, you would use the following
+CSS:
+
+h2 {
+  font-family: Sans-serif;
+}
+Make all of your p elements use the Monospace font.
+
+Run tests (ctrl + enter)
+  Reset Help  Bug
+  Your p elements should use the font Monospace.
+
