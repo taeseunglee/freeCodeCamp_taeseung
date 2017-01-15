@@ -1,0 +1,22 @@
+Style Multiple Elements with a CSS Class
+Remember that you can attach classes to HTML elements by using class="your-class-here"
+within the relevant element's opening tag.
+
+Remember that CSS class selectors require a period at the beginning like this:
+
+  .blue-text {
+    color: blue;
+  }
+But also remember that class declarations don't use a period, like this:
+
+<h2 class="blue-text">CatPhotoApp</h2>
+
+Apply the red-text class to your h2 and p elements.
+
+Run tests (ctrl + enter)
+  Reset Help  Bug
+  Your h2 element should be red.
+  Your h2 element should have the class red-text.
+  Your p element should be red.
+  Your p element should have the class red-text.
+
