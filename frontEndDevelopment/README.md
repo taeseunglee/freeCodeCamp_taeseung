@@ -1,0 +1,14 @@
+#Front End Development Certification </br>
+- HTML5 and CSS  
+- Responsive Design with Bootstrap  
+- Gear up for Success  
+- jQuery  
+- Basic Front end Development Projects  
+- Basic JavaScript  
+- Object Oriented and Functional Programming  
+- Basic Algorithm Scripting  
+- JSON APIs and Ajax  
+- Intermediate Front End Development Projects  
+- Intermediate Algorithm Scripting  
+- Advanced Algorithm Scripting  
+- Advanced Front End Development Projects  
