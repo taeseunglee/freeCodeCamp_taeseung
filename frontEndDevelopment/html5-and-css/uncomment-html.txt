@@ -1,0 +1,10 @@
+Uncomment HTML
+Commenting is a way that you can leave comments within your code without affecting the code itself.
+
+Commenting is also a convenient way to make code inactive without having to delete it entirely.
+
+You can start a comment with <!-- and end a comment with -->
+
+Uncomment your h1, h2 and p elements.
+---------------------------------------------------------------------------------------------------
+Make your h1 element visible on your page by uncommenting it.
