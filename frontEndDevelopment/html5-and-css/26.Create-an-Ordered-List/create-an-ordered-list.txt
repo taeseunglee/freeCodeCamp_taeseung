@@ -1,0 +1,24 @@
+Create an Ordered List
+HTML has a special element for creating ordered lists, or numbered-style lists.
+
+Ordered lists start with a <ol> element. Then they contain some number of <li> elements.
+
+For example:
+
+<ol>
+  <li>Garfield</li>
+    <li>Sylvester</li>
+    </ol>
+    would create a numbered list of "Garfield" and "Sylvester".
+
+    Create an ordered list of the top 3 things cats hate the most.
+
+    Run tests (ctrl + enter)
+  Reset Help  Bug
+  You should have an ordered list for "Top 3 things cats hate:"
+  You should have an unordered list for "Things cats love:"
+  You should have three li elements within your ul element.
+  You should have three li elements within your ol element.
+  Make sure your ul element has a closing tag.
+  Make sure your ol element has a closing tag.
+  Make sure your li element has a closing tag.
