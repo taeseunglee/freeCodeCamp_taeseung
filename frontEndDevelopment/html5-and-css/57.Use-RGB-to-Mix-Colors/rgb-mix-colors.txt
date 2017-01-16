@@ -1,0 +1,20 @@
+Use RGB to Mix Colors
+Just like with hex code, you can mix colors in RGB by using combinations of different values.
+
+Replace the color words in our style element with their correct RGB values.
+
+Color RGB
+Blue  rgb(0, 0, 255)
+  Red rgb(255, 0, 0)
+  Orchid  rgb(218, 112, 214)
+  Sienna  rgb(160, 82, 45)
+  Run tests (ctrl + enter)
+  Reset Help  Bug
+  Give your h1 element with the text I am red! the color red.
+  Use rgb for the color red.
+  Give your h1 element with the text I am orchid! the color orchid.
+  Use rgb for the color orchid.
+  Give your h1 element with the text I am blue! the color blue.
+  Use rgb for the color blue.
+  Give your h1 element with the text I am sienna! the color sienna.
+  Use rgb for the color sienna.
