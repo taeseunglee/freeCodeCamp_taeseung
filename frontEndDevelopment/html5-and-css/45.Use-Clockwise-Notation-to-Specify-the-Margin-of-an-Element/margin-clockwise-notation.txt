@@ -1,0 +1,20 @@
+Use Clockwise Notation to Specify the Margin of an Element
+Let's try this again, but with margin this time.
+
+Instead of specifying an element's margin-top, margin-right, margin-bottom, and margin-left
+properties, you can specify them all in one line, like this:
+
+margin: 10px 20px 10px 20px;
+
+These four values work like a clock: top, right, bottom, left, and will produce the exact same
+result as using the side-specific margin instructions.
+
+Use Clockwise Notation to give the element with the green-box class a margin of 40px on its top and
+left side, but only 20px on its bottom and right side.
+
+Run tests (ctrl + enter)
+  Reset Help  Bug
+  Your green-box class should give the top of elements 40px of margin.
+  Your green-box class should give the right of elements 20px of margin.
+  Your green-box class should give the bottom of elements 20px of margin.
+  Your green-box class should give the left of elements 40px of margin.
