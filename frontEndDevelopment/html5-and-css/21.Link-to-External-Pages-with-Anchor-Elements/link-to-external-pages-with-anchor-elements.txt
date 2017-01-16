@@ -1,0 +1,21 @@
+Link to External Pages with Anchor Elements
+a elements, also known as anchor elements, are used to link to content outside of the current
+page.
+
+Here's a diagram of an a element. In this case, the a element is used in the middle of a
+paragraph element, which means the link will appear in the middle of a sentence.
+
+a diagram of how anchor tags are composed with the same text as on the following line
+
+Here's an example:
+
+<p>Here's a <a href="http://freecodecamp.com"> link to Free Code Camp</a> for you to follow.</p>
+
+Create an a element that links to http://freecatphotoapp.com and has "cat photos" as its anchor
+text.
+
+Run tests (ctrl + enter)
+  Reset Help  Bug
+  Your a element should have the anchor text of "cat photos".
+  You need an a element that links to http://freecatphotoapp.com
+  Make sure your a element has a closing tag.
