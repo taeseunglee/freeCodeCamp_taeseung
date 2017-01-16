@@ -1,0 +1,15 @@
+
+Check Radio Buttons and Checkboxes by Default
+You can set a checkbox or radio button to be checked by default using the checked attribute.
+
+To do this, just add the word "checked" to the inside of an input element. For example:
+
+<input type="radio" name="test-name" checked>
+
+Set the first of your radio buttons and the first of your checkboxes to both be checked by
+default.
+
+Run tests (ctrl + enter)
+  Reset Help  Bug
+  Your first radio button on your form should be checked by default.
+  Your first checkbox on your form should be checked by default.
