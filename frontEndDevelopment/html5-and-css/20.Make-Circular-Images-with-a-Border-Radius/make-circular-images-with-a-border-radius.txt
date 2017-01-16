@@ -1,0 +1,10 @@
+Make Circular Images with a Border Radius
+In addition to pixels, you can also specify a border-radius using a percentage.
+
+Give your cat photo a border-radius of 50%.
+
+Run tests (ctrl + enter)
+  Reset Help  Bug
+  Your image should have a border radius of 50%, making it perfectly circular.
+  Be sure to use a percentage instead of a pixel value.
+
