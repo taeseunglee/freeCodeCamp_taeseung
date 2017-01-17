@@ -1,0 +1,10 @@
+Responsively Style Checkboxes
+You can use Bootstrap's col-xs-* classes on form elements, too! This way, our checkboxes will be evenly spread out across the page, regardless of how wide the screen resolution is.
+
+Nest all your checkboxes in a <div class="row"> element. Then nest each of them in a <div class="col-xs-4"> element.
+
+Run tests (ctrl + enter)
+Reset	Help	Bug
+Nest all of your checkboxes inside one div with the class row.
+Nest each of your checkboxes inside its own div with the class col-xs-4.
+Make sure each of your div elements has a closing tag.

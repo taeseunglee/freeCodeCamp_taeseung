@@ -1,0 +1,9 @@
+Split your Bootstrap Row
+Now that we have a Bootstrap Row, let's split it into two columns to house our elements.
+
+Create two div elements within your row, both with the class col-xs-6.
+
+Run tests (ctrl + enter)
+Reset	Help	Bug
+Nest two div class="col-xs-6" elements within your div class="row" element.
+Make sure all your div elements have closing tags.

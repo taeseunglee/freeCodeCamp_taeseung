@@ -1,0 +1,21 @@
+Use Spans for Inline Elements
+You can use spans to create inline elements. Remember when we used the btn-block class to make the button fill the entire row?
+
+This image illustrates the difference between inline elements and block-level elements:
+
+An 
+
+By using the span element, you can put several elements together, and even style different parts of the same element differently.
+
+Nest the word "love" in your "Things cats love" element below within a span element. Then give that span the class text-danger to make the text red.
+
+Here's how you would do this with the "Top 3 things cats hate" element:
+
+<p>Top 3 things cats <span class = "text-danger">hate:</span></p>
+
+Run tests (ctrl + enter)
+Reset	Help	Bug
+Your span element should be inside your p element.
+Your span element should have the text love.
+Your span element should have class text-danger.
+Make sure your span element has a closing tag.
