@@ -1,0 +1,12 @@
+Create a Bootstrap Button
+Bootstrap has its own styles for button elements, which look much better than the plain HTML ones.
+
+Create a new button element below your large kitten photo. Give it the class btn and the text of
+"Like".
+
+Run tests (ctrl + enter)
+  Reset Help  Bug
+  Create a new button element with the text "Like".
+  Your new button should have the class btn.
+  Make sure all your button elements have a closing tag.
+
