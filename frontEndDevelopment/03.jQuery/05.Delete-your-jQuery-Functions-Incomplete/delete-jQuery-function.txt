@@ -1,0 +1,12 @@
+Delete your jQuery Functions
+These animations were cool at first, but now they're getting kind of distracting.
+
+Delete all three of these jQuery functions from your document ready function, but leave your document ready function itself intact.
+
+Run tests (ctrl + enter)
+Reset	Help	Bug
+Delete all three of your jQuery functions from your document ready function.
+Leave your script element intact.
+Leave your $(document).ready(function() { to the beginning of your script element.
+Leave your "document ready function" closing }) intact.
+Leave your script element closing tag intact.

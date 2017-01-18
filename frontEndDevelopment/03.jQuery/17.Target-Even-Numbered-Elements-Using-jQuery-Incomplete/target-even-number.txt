@@ -1,0 +1,16 @@
+Target Even Numbered Elements Using jQuery
+You can also target all the even-numbered elements.
+
+Here's how you would target all the odd-numbered elements with class target and give them classes:
+
+$(".target:odd").addClass("animated shake");
+
+Note that jQuery is zero-indexed, meaning that, counter-intuitively, :odd selects the second element, fourth element, and so on.
+
+Try selecting all the even-numbered elements and giving them the classes of animated and shake.
+
+Run tests (ctrl + enter)
+Reset	Help	Bug
+All the target elements that computer considers even should shake.
+You should use the :even function to modify these elements.
+Only use jQuery to add these classes to the element.
